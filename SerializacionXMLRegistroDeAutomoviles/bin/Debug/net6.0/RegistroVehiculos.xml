@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistroVehiculos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Año>2010</Año>
+  <Chasis1>001-678uw-9872</Chasis1>
+  <Modelo1>190K</Modelo1>
+  <Marca1>Mercedez Benz</Marca1>
+  <Precio1>12000</Precio1>
+</RegistroVehiculos>

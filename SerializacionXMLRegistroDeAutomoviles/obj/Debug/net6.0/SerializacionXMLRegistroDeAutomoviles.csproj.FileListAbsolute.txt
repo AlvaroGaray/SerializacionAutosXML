@@ -1,0 +1,30 @@
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.exe
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.deps.json
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.runtimeconfig.json
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.dll
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.pdb
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.csproj.AssemblyReference.cache
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.AssemblyInfoInputs.cache
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.AssemblyInfo.cs
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.csproj.CoreCompileInputs.cache
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.dll
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\refint\SerializacionXMLRegistroDeAutomoviles.dll
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.pdb
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.genruntimeconfig.cache
+C:\Users\Nestor Soto\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\ref\SerializacionXMLRegistroDeAutomoviles.dll
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.exe
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.deps.json
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.runtimeconfig.json
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.dll
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\bin\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.pdb
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.csproj.AssemblyReference.cache
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.AssemblyInfoInputs.cache
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.AssemblyInfo.cs
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.dll
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\refint\SerializacionXMLRegistroDeAutomoviles.dll
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.pdb
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\SerializacionXMLRegistroDeAutomoviles.genruntimeconfig.cache
+C:\Users\JADPA-24\Desktop\Registros Serializables\SerializacionXMLRegistroDeAutomoviles\obj\Debug\net6.0\ref\SerializacionXMLRegistroDeAutomoviles.dll
